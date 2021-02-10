@@ -21,9 +21,12 @@ We don't like to commit Xcode project file. Create your own XCode project, add f
 - Vuln: Apple
 
 # License
-If you want to use it in your project under GPL not-compatible license - **please** DM us to get permissions.  
-We give permissions to **@CStar_OW** to use and modify the exploit for Odyssey - the best jailbreak :).  
-But we hope that all modifications will be open sourced.  
+my patches and additions on top of ModernPwner’s code are licensed under the ABSE (“Anyone But Stefan Esser”) license.
+note that an additional exception to the license is added, forbidding use/redistribution of said content to his
+trainees as well, but only when in a 5 mile radius from “Stefan Esser” or while holding any sort of (video)conference/chat with him.
+note that this license will only be used as long as what would capstone decode / that one other arm64 ida
+plugin thing by i0n1c (“Stefan Esser”) are not under the MIT license.
+afterwards, all exceptions are cleared and basically WTFPL applies
 
 # PAC bypass
 For the moment we have a brand new technique to bypass PAC but we decided to not include such critical stuff here.  
