@@ -1,5 +1,5 @@
 # cicuta_virosa
-iOS\iPadOS 14.3 kernel LPE for all devices by **@ModernPwner**. Please follow us on twitter :)
+iOS\iPadOS 14.3 kernel LPE for all devices by **@ModernPwner**. Please do not follow us on twitter :)
 
 # Current state
 - Exploit works :)
@@ -14,11 +14,11 @@ iOS\iPadOS 14.3 kernel LPE for all devices by **@ModernPwner**. Please follow us
 Soon.
 
 # How to build it
-We don't like to commit Xcode project file. Create your own XCode project, add files and call "cicuta_virosa" function.
+be pro epic hax0r like cockstar or pussy420wnd
 
 # Credits
 - Some utils (exploit_utilities.c): @Jakeashacks
-- Vuln: Apple
+- Vuln: some company. they kinda popular ig. 
 
 # License
 my patches and additions on top of ModernPwner’s code are licensed under the ABSE (“Anyone But Stefan Esser”) license.
