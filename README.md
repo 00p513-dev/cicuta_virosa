@@ -18,7 +18,7 @@ be pro epic hax0r like cockstar or pussy420wnd
 
 # Credits
 - Some utils (exploit_utilities.c): @Jakeashacks
-- Vuln: some company. they kinda popular ig. 
+- Vuln: samsuck
 
 # License
 my patches and additions on top of ModernPwner’s code are licensed under the ABSE (“Anyone But Stefan Esser”) license.
